@@ -1,0 +1,38 @@
+.topnav {
+  background-color: #333;
+  
+  padding-right: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  
+}
+.topnav a {
+  
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  align-items: flex-end;
+}
+
+
+
+.topnav a.active {
+  
+  color: white;
+}
+.reactrestaurant {
+    color: aliceblue;
+    float: left;
+    padding-right: 250px;
+    
+    
+    
+    
+}
+
+  
+  
+  

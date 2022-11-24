@@ -1,0 +1,28 @@
+.dishes{
+
+  display:flex;
+  justify-content: center;
+  padding: 20px;
+  flex-wrap: wrap;
+
+}
+
+.container {
+  padding: 2px 16px;
+  background-color: aliceblue;
+}
+body {
+   background-image: url("https://img.freepik.com/foto-gratis/interior-restaurante_1127-3392.jpg?w=2000") ; 
+}
+.title {
+text-align: center;
+color: white;
+}
+
+
+
+
+
+
+
+  

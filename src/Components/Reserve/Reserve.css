@@ -1,0 +1,34 @@
+.form {
+  flex-wrap: wrap;
+  flex-direction: column;
+ display: grid;
+  padding: 100px 25px 25px 25px;
+
+}
+
+.name {
+  padding: 10px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+.phonenumber {
+  padding: 10px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+.date {
+  padding: 10px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+.time {
+  padding: 10px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.button{
+    padding: 10px;
+    margin-left: 450px;
+  margin-right: 450px;
+}
